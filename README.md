@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning and using Markdown, Hugo, and Jekyll (and I am planning on returning to school to get my secondary education teaching certificate). No, I'm not a coder, but I recognize the importance code has in all facets of today's world—and I want to bring that to the classroom.
 
-📫 You can reach me on [Twitter](https://twitter.com/geoffreysperl), [LinkedIn](https://www.linkedin.com/in/geoffreysperl/), or head over to my website at [geoffreysperl.com](https://geoffreysperl.com).
+📫 You can reach me on <a rel="me" href="https://mastodon.social/@geoffreysperl">Mastodon</a>, [LinkedIn](https://www.linkedin.com/in/geoffreysperl/), or head over to my website at [geoffreysperl.com](https://geoffreysperl.com).
 
 <!---
 geoffreysperl/geoffreysperl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
